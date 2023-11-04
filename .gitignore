@@ -16,3 +16,5 @@ portal/tmp
 !/portal/log/.keep
 /portal/tmp
 .vagrant
+webapp/logs/nginx/access.log
+webapp/logs/nginx/error.log
