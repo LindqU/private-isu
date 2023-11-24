@@ -19,3 +19,4 @@ portal/tmp
 webapp/logs/nginx/access.log
 webapp/logs/nginx/error.log
 webapp/logs/mysql/mysql-slow.log
+webapp/logs/mysql/analyzed-slow.log
